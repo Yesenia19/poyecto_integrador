@@ -1,2 +1,2 @@
 # poyecto_integrador
-poryecto
+proyecto
