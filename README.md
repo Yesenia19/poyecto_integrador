@@ -1,2 +1,1 @@
-# poyecto_integrador
-proyecto
+# proyecto-integrador
