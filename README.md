@@ -1,2 +1,2 @@
-# poyectp_integrador
+# poyecto_integrador
 poryecto
